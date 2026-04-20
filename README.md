@@ -1,6 +1,6 @@
 # Hi there, I'm Udit Prabhakar 👋 
 
-### 🚀 Backend & Security Engineer | 4 Years Experience | Patent Holder
+### 🚀 Backend & Security Engineer | nearly 4 Years Experience
 
 I specialize in building **high-scale, mission-critical backend systems** and **advanced threat detection (NDR) solutions**. With nearly 4 years of experience, I bridge the gap between robust software architecture and proactive cybersecurity.
 
@@ -14,10 +14,10 @@ I specialize in building **high-scale, mission-critical backend systems** and **
 
 ---
 
-### 🏆 Highlights & Innovation
-- **💡 Granted Patent (IN202211042825):** Inventor of a system for detecting and preventing unauthorized access to Unmanned Aerial Vehicles (UAVs/Drones).
+### 🏆 Key Achievements
 - **🛡️ NDR Architect:** Designed core engines for real-time network traffic analysis and threat response in high-security environments.
 - **⚡ Scalability Expert:** Redesigned data persistence layers to handle 10k+ daily transactions with 99.9% uptime and 40% latency reduction.
+- **📈 Force Multiplier:** Standardized Suricata rule deployment pipelines, reducing rule deployment time by 50% across the organization.
 
 ---
 
