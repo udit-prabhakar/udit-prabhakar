@@ -41,8 +41,8 @@ I specialize in building **high-scale, mission-critical backend systems** and **
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uditprabhakar6&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditprabhakar6&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udit-prabhakar&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-prabhakar&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
 ---
